@@ -10,19 +10,15 @@
 <p float="left">
 <h3 align="left" > My Languages and Tools :</h3></br>
 
-<a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+<a href="https://nodejs.org/en/about/">
+   <img src="./readme-resources/nodejs.png" width="50px" height="50px">
 </a>
 
-<a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <img src="./readme-resources/javascript.png" width="50px" height="50px">
 </a>
 
-<a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
-</a>
-
-<a href="https://jestjs.io/docs/getting-started">
+<a href="https://html.com/html5/">
    <img src="./readme-resources/html.png" width="50px" height="50px">
 </a>
 
@@ -30,19 +26,24 @@
    <img src="./readme-resources/css.png" width="50px" height="50px">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-   <img src="./readme-resources/javascript.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.mongodb.com/docs/manual/">
-   <img src="./readme-resources/mongo.png" width="50px" height="50px">
+<a href="https://sass-lang.com/documentation/syntax">
+   <img src="./readme-resources/sass.png" width="50px" height="50px">
 </a>
 
 <a href="https://expressjs.com/en/starter/hello-world.html">
    <img src="./readme-resources/express.png" width="50px" height="50px">
 </a>
 
+<a href="https://www.mongodb.com/docs/manual/">
+   <img src="./readme-resources/mongo.png" width="50px" height="50px">
+</a>
+
+<a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">
+   <img src="./readme-resources/typescript.png" width="50px" height="50px">
+</a>
+
 <a href="https://jestjs.io/docs/using-matchers">
    <img src="./readme-resources/jest.png" width="50px" height="50px">
 </a>
+
 </p>
