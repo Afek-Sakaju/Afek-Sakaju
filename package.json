@@ -1,0 +1,19 @@
+{
+  "name": "afektheminilearner",
+  "version": "1.0.0",
+  "description": "<link rel=\"stylesheet\" href=\"./styles/readme.css\" />\r <h1 align=\"center\">Hello, I'm Afek Sakaju</h1>\r <h3 align=\"center\">A passionate web developer from Israel</h3>",
+  "main": "prettier.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afekTheMiniLearner/afekTheMiniLearner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afekTheMiniLearner/afekTheMiniLearner/issues"
+  },
+  "homepage": "https://github.com/afekTheMiniLearner/afekTheMiniLearner#readme"
+}
