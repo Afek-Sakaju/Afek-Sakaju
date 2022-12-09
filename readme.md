@@ -31,10 +31,10 @@
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+   <img src="./readme-resources/express.png" width="50px" height="50px">
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+   <img src="./readme-resources/jest.png" width="50px" height="50px">
 </a>
 </p>
