@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+   <img src="./readme-resources/css.png" width="50px" height="50px">
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
