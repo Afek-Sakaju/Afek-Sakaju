@@ -19,10 +19,18 @@
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/css.png" width="50px" height="50px">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/html.png" width="50px" height="50px">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+   <img src="./readme-resources/css.png" width="50px" height="50px">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img src="./readme-resources/javascript.png" width="50px" height="50px">
 </a>
 
