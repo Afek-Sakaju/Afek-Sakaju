@@ -7,8 +7,33 @@
 
 ---
 
-<p align="left">
+<p float="left">
 <h3 align="left" > My Languages and Tools :</h3></br>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
+<a href="https://jestjs.io/docs/getting-started">
+   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+</a>
+
 <a href="https://jestjs.io/docs/getting-started">
    <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
 </a>
