@@ -3,6 +3,8 @@
 
 -   🌱 I’m currently learning **React**
 
+-   💌 **Looking for job**
+
 -   📫 Contact me at **afeksacajo@gmail.com**
 
 ---
@@ -42,8 +44,24 @@
    <img src="./readme-resources/typescript.png" width="50px" height="50px">
 </a>
 
+<a href="https://reactjs.org/">
+   <img src="./readme-resources/react.png" width="50px" height="50px">
+</a>
+
 <a href="https://jestjs.io/docs/using-matchers">
    <img src="./readme-resources/jest.png" width="50px" height="50px">
+</a>
+
+<a href="https://github.com/">
+   <img src="./readme-resources/git.png" width="50px" height="50px">
+</a>
+
+<a href="https://www.postman.com/product/what-is-postman/">
+   <img src="./readme-resources/postman.png" width="50px" height="50px">
+</a>
+
+<a href="https://swagger.io/tools/swagger-ui/">
+   <img src="./readme-resources/swagger.png" width="50px" height="50px">
 </a>
 
 </p>
