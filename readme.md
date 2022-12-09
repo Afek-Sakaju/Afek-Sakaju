@@ -23,18 +23,18 @@
 </a>
 
 <a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+   <img src="./readme-resources/javascript.png" width="50px" height="50px">
 </a>
 
-<a href="https://jestjs.io/docs/getting-started">
-   <img src="./readme-resources/jest-logo.png" width="50px" height="50px">
+<a href="https://www.mongodb.com/docs/manual/">
+   <img src="./readme-resources/mongo.png" width="50px" height="50px">
 </a>
 
-<a href="https://jestjs.io/docs/getting-started">
+<a href="https://expressjs.com/en/starter/hello-world.html">
    <img src="./readme-resources/express.png" width="50px" height="50px">
 </a>
 
-<a href="https://jestjs.io/docs/getting-started">
+<a href="https://jestjs.io/docs/using-matchers">
    <img src="./readme-resources/jest.png" width="50px" height="50px">
 </a>
 </p>
