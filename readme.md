@@ -15,7 +15,7 @@
 <h3 align="left" > My Languages and Tools :</h3></br>
 
 <a href="https://nodejs.org/en/about/">
-   <img src="./readme-resources/nodejs.png" width="50px" height="50px">
+   <img src="./readme-resources/nodejs.png" width="63px" height="50px">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
