@@ -3,11 +3,11 @@
 
 -   🌱 I’m currently learning **React**
 
--    **Looking for job**
+-   😇 **Looking for a job**
 
 -   📫 Contact me by Mail: **afeksacajo@gmail.com**
 
--   💌 Contact me at LinkedIn: [@afeksa](https://www.linkedin.com/in/afeksa/)
+-   💌 Contact me at LinkedIn: **[@afeksa](https://www.linkedin.com/in/afeksa/)**
 
 ---
 
