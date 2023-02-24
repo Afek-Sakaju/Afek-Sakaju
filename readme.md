@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Afek Sakaju</h1>
 <h3 align="center">A passionate web developer from Israel</h3>
 
--   🌱 I’m currently learning **React**
-
 -   😇 **Looking for a job**
 
 -   📫 Contact me by Mail: **afeksacajo@gmail.com**
