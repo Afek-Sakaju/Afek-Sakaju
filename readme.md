@@ -14,10 +14,6 @@
 <p float="left">
 <h3 align="left" > My Languages and Tools :</h3></br>
 
-<a href="https://nodejs.org/en/about/">
-   <img src="./readme-resources/nodejs.png" width="63px" height="50px">
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img src="./readme-resources/javascript.png" width="50px" height="50px">
 </a>
@@ -34,6 +30,30 @@
    <img src="./readme-resources/sass.png" width="50px" height="50px">
 </a>
 
+<a href="https://reactjs.org/">
+   <img src="./readme-resources/react.png" width="50px" height="50px">
+</a>
+
+<a href="https://storybook.js.org/">
+   <img src="./readme-resources/storybook.png" width="50px" height="50px">
+</a>
+
+<a href="https://eslint.org/">
+   <img src="./readme-resources/eslint.png" width="50px" height="50px">
+</a>
+
+<a href="https://redux.js.org/">
+   <img src="./readme-resources/redux.png" width="50px" height="50px">
+</a>
+
+<a href="https://styled-components.com/">
+   <img src="./readme-resources/styledComponents.png" width="50px" height="50px">
+</a>
+
+<a href="https://nodejs.org/en/about/">
+   <img src="./readme-resources/nodejs.png" width="63px" height="50px">
+</a>
+
 <a href="https://expressjs.com/en/starter/hello-world.html">
    <img src="./readme-resources/express.png" width="50px" height="50px">
 </a>
@@ -44,10 +64,6 @@
 
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">
    <img src="./readme-resources/typescript.png" width="50px" height="50px">
-</a>
-
-<a href="https://reactjs.org/">
-   <img src="./readme-resources/react.png" width="50px" height="50px">
 </a>
 
 <a href="https://jestjs.io/docs/using-matchers">
