@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://redux.js.org/">
-   <img src="./readme-resources/redux.jpg" width="50px" height="50px">
+   <img src="./readme-resources/redux.png" width="50px" height="50px">
 </a>
 
 <a href="https://styled-components.com/">
