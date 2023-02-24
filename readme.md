@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://styled-components.com/">
-   <img src="./readme-resources/styledComponent.png" width="50px" height="50px">
+   <img src="./readme-resources/styledComponents.png" width="50px" height="50px">
 </a>
 
 <a href="https://nodejs.org/en/about/">
