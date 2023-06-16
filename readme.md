@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Afek Sakaju</br> A passionate web developer from Israel </br>
 </h1>
+</br>
+</br>
+</br>
 
 ## 💻 Tech Stack:
-
 </br>
 
 <div>
@@ -30,13 +32,12 @@
    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </div>
-
+</br>
+</br>
 </br>
 
----
 
 ## 📊 GitHub stats:
-
 </br>
 
 <div align="center">
@@ -47,19 +48,18 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 </br>
-
----
+</br>
+</br>
 
 ## 🏆 My Trophies
-
 </br>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1">
 </div>
 </br>
-
----
+</br>
+</br>
 
 **Contact:**
 
