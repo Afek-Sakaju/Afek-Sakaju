@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="./index.css">
-<h1 align="center">Hello, I'm Afek Sakaju</h1>
+<p class="title">Hello, I'm Afek Sakaju</p>
 
 <h2 align="center">A passionate web developer from Israel</h2>
 
