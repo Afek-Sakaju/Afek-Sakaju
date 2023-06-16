@@ -1,4 +1,5 @@
-<h1 align="center" style="border-bottom: none;">Hello, I'm Afek Sakaju</h1>
+<link rel="stylesheet" type="text/css" href="./index.css">
+<h1 align="center">Hello, I'm Afek Sakaju</h1>
 
 <h2 align="center">A passionate web developer from Israel</h2>
 
