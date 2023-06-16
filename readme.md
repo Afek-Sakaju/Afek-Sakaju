@@ -5,9 +5,10 @@
 </br>
 
 ## 💻 Tech Stack:
+
 </br>
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap;">
+<div>
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,14 +37,14 @@
 </br>
 </br>
 
-
 ## 📊 GitHub stats:
+
 </br>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
 </div>
-
+</br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
@@ -52,6 +53,7 @@
 </br>
 
 ## 🏆 My Trophies
+
 </br>
 
 <div align="center">
