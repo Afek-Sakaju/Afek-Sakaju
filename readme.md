@@ -7,7 +7,7 @@
 ## 💻 Tech Stack:
 </br>
 
-<div>
+<div style="display:flex; justify-content:center; flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -55,7 +55,7 @@
 </br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1">
+   <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
 </div>
 </br>
 </br>
