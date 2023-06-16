@@ -1,42 +1,11 @@
-<style>
-  h1 {
-    border-bottom: none;
-    text-align:center;
-  }
-
-  .sub-title{
-      text-align:center;
-  }
-
-  .stats-container{
-      display: flex;
-      flex-wrap: nowrap;
-      justify-content: center;
-      gap: 10px;
-      padding: 0 150px;
-  }
-  
-   .tech-stack-container{
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
-   align-items: center; 
-   padding:0 50px;
-   }
-</style>
-
-# Hello, I'm Afek Sakaju
-
-<h2 class="sub-title"> A passionate web developer from Israel </h2>
-
----
-
-</br>
+<h1 align="center">Hello, I'm Afek Sakaju</br> A passionate web developer from Israel </br>
+</h1>
 
 ## 💻 Tech Stack:
 
 </br>
-<div class="tech-stack-container">
+
+<div>
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -60,23 +29,26 @@
    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-
-## </div>
+</div>
 
 </br>
+
+---
 
 ## 📊 GitHub stats:
 
 </br>
 
-<div class="stats-container" align="center">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
----
-
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</div>
 </br>
+
+---
 
 ## 🏆 My Trophies
 
@@ -85,10 +57,9 @@
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1">
 </div>
+</br>
 
 ---
-
-</br>
 
 **Contact:**
 
