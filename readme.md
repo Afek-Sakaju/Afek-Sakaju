@@ -59,7 +59,7 @@
 </br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
+   <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=dracula&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
 </div>
 </br>
 </br>
