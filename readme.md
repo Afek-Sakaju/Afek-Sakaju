@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Afek Sakaju</br> A passionate web developer from Israel </br>
 </h1>
-</br>
 
 ### 📫 Email: **afeksacajo@gmail.com**
 
