@@ -5,6 +5,8 @@
 
 ### 💌 LinkedIn: **[afek sakaju](https://www.linkedin.com/in/afeksa/)**
 
+---
+
 </br>
 </br>
 </br>
