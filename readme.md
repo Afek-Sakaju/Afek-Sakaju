@@ -1,13 +1,22 @@
+<style type="text/css">
+  h1 {
+    border-bottom :none;
+    color:red;
+  }
+</style>
+
 <h1 align="center">Hello, I'm Afek Sakaju</br> A passionate web developer from Israel </br>
 </h1>
 
-<div align="center">
+### 📫 Email: **afeksacajo@gmail.com**
 
-#### 💌 LinkedIn: **[afek sakaju](https://www.linkedin.com/in/afeksa/)**</br> 📫 Email: **afeksacajo@gmail.com**
-
-</div>
+### 💌 LinkedIn: **[afek sakaju](https://www.linkedin.com/in/afeksa/)**
 
 ---
+
+</br>
+</br>
+</br>
 
 ## 💻 Tech Stack:
 
