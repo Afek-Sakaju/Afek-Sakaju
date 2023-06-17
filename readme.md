@@ -1,6 +1,12 @@
 <h1 align="center">Hello, I'm Afek Sakaju</br> A passionate web developer from Israel </br>
 </h1>
 </br>
+
+### 📫 Email: **afeksacajo@gmail.com**
+
+### 💌 LinkedIn: **[afek sakaju](https://www.linkedin.com/in/afeksa/)**
+
+</br>
 </br>
 </br>
 
@@ -62,9 +68,3 @@
 </br>
 </br>
 </br>
-
-**Contact:**
-
--   📫 Email: **afeksacajo@gmail.com**
-
--   💌 LinkedIn: **[afek sakaju](https://www.linkedin.com/in/afeksa/)**
