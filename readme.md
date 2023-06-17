@@ -44,11 +44,11 @@
 </br>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=afekTheMiniLearner&theme=dracula&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
 </div>
 </br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
 </div>
 </br>
 </br>
