@@ -28,6 +28,7 @@
    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+   <img src="https://img.shields.io/badge/-Vite-%23ffdd35?style=for-the-badge&logo=vite&logoColor=8b73fe&textColor=yellow">
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -36,7 +37,6 @@
    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
    <img src="https://img.shields.io/badge/-Storybook-%23ff2d74?style=for-the-badge&logo=storybook&logoColor=white">
    <img src="https://img.shields.io/badge/-Formik-%2361DAFB?style=for-the-badge&labelColor=black">
-
 </div>
 </br>
 </br>
