@@ -47,11 +47,11 @@
 </br>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=Afek-Sakaju&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
 </div>
 </br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afekTheMiniLearner&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
 </div>
 </br>
 </br>
@@ -62,7 +62,7 @@
 </br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=afekTheMiniLearner&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
+   <img src="https://github-profile-trophy.vercel.app/?username=Afek-Sakaju&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
 </div>
 </br>
 </br>
