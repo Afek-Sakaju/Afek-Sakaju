@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Afek Sakaju</br> A Web & Mobile Developer from Israel</h1>
+<h1 align="center">Hello, I'm Afek Sakaju</br> A React Developer from Israel</h1>
 
 ### 📫 Email: **afeksacajo@gmail.com**
 
