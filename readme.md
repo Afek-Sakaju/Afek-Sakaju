@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Afek Sakaju</br> A React Developer from Israel</h1>
 
-### 📫 Email: **afeksacajo@gmail.com**
+### 📫 Contact via Email at: **afeksacajo@gmail.com**
 
-### 💌 LinkedIn: **[@Afek Sakaju](https://www.linkedin.com/in/afeksa/)**
+### 💌 Connect with me on LinkedIn: **[Afek Sakaju](https://www.linkedin.com/in/afeksa/)**
 
 ---
 
