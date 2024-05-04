@@ -2,7 +2,7 @@
 
 ### 📫 Email: **afeksacajo@gmail.com**
 
-### 💌 LinkedIn: **[Afek Sakaju](https://www.linkedin.com/in/afeksa/)**
+### 💌 LinkedIn: **[@Afek Sakaju](https://www.linkedin.com/in/afeksa/)**
 
 ---
 
