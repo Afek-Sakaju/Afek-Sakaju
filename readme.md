@@ -2,7 +2,7 @@
 
 ### 📫 Contact via Email at: **afeksacajo@gmail.com**
 
-### 💌 Connect with me on LinkedIn: **[Afek Sakaju](https://www.linkedin.com/in/afeksa/)**
+### 💌 Connect with me: **[My LinkedIn](https://www.linkedin.com/in/afeksa/)**
 
 ---
 
