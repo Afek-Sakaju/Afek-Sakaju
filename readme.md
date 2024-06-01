@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Afek Sakaju</br> A React Developer from Israel</h1>
 
-### 💌 Connect with me at **[my LinkedIn](https://www.linkedin.com/in/afeksa/)**
+### 💌 Connect with me at **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
 
 ---
 
