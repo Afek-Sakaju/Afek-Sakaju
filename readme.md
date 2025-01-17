@@ -1,4 +1,4 @@
-# Hello, I'm [Afek Sakaju](https://www.linkedin.com/in/afeksa/) - React & Next developer from Israel 
+<h1 align="center"> Hello, I'm [Afek Sakaju](https://www.linkedin.com/in/afeksa/) - React & Next developer from Israel </h1>
 
 </br>
 
