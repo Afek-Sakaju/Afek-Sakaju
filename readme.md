@@ -1,12 +1,19 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hello, I'm Afek Sakaju</br> A React & Next</h1>
+      <h1>Hello, I'm Afek Sakaju</br> A React & Next Developer from Israel</h1>
     </summary>
   </ul>
 </div>
 
-### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h3>💌 Connect with me on </h3><a href="[https://twitter.com/anujcodes_25](https://www.linkedin.com/in/afeksa/)"><h3> Linkedin </h3></a> 
+    </summary>
+  </ul>
+</div>
+
 
 ## 💻 Tech Stack:
 
