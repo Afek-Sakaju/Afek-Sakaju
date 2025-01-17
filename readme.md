@@ -1,9 +1,16 @@
-# Afek Sakaju - Frontend Developer
+# Afek Sakaju - React & Next Developer
 
-### 💌  Connect with me on [Linkedin](https://www.linkedin.com/in/afeksa/)
-### 💡 My [Stack Overflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
+### 💌 Connect with me on [Linkedin](https://www.linkedin.com/in/afeksa/)
+### 📃 Visit my [Stack Overflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
 
 ---
+
+
+## GitHub stats:
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
+</div>
 
 ## Tech Stack:
 
@@ -24,6 +31,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=flat&logo=jest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%23008F7D.svg?style=flat&logo=mui&logoColor=white)
@@ -47,8 +55,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 </div>
 
-## GitHub stats:
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
-</div>
+---
+![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/363e2354-c8d6-4359-b630-db6e298ad0bf)
+
