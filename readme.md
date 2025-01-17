@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Afek Sakaju </br> React & Next developer from Israel</h1>
 
-### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
-
 ## 💻 Tech Stack:
 
 </br>
@@ -49,6 +47,11 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
 </div>
+
+</br>
+
+### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
+
 
 </br>
 </br>
