@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Afek Sakaju </br> React & Next developer from Israel</h1>
+# Hello, I'm Afek Sakaju - React & Next developer from Israel
 
 ## 💻 Tech Stack:
 
