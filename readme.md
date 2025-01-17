@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm Afek Sakaju</br> A React & Next developer from Israel</h1>
+<h1 style="border-bottom: 0"  align="center">Hello, I'm Afek Sakaju</br> A React & Next developer from Israel</h1>
 
 ### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
 
----
+--
 
 ## 💻 Tech Stack:
 
