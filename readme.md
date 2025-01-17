@@ -1,4 +1,10 @@
-<h1 style="border-bottom: 0"  align="center">Hello, I'm Afek Sakaju</br> A React & Next developer from Israel</h1>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hello, I'm Afek Sakaju</br> A React & Next</h1>
+    </summary>
+  </ul>
+</div>
 
 ### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
 
