@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Afek Sakaju</br> A React Developer from Israel</h1>
+<h1 align="center">Hello, I'm Afek Sakaju</br> A React & Next developer from Israel</h1>
 
 ### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
 
@@ -60,7 +60,7 @@
 </br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Afek-Sakaju&theme=gruvbox&no-frame=false&no-bg=false&column=3&row=1&margin-w=15">
+   <img src="https://github-profile-trophy.vercel.app/?username=Afek-Sakaju&theme=gruvbox&no-frame=false&no-bg=false&column=2&row=1&margin-w=15">
 </div>
 </br>
 </br>
