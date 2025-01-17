@@ -1,6 +1,4 @@
-# Hello, I'm Afek Sakaju - React & Next developer from Israel
-
-## 💻 Tech Stack:
+# Hello, I'm [Afek Sakaju](https://www.linkedin.com/in/afeksa/) - React & Next developer from Israel </br> Here is my Tech Stack:
 
 </br>
 
@@ -49,9 +47,6 @@
 </div>
 
 </br>
-
-### 💌 Connect with me on **[LinkedIn](https://www.linkedin.com/in/afeksa/)**
-
 
 </br>
 </br>
