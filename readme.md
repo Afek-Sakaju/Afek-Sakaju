@@ -45,13 +45,13 @@
 </br>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Afek-Sakaju&theme=gruvbox&hide_border=false&hide=issues,contribs&hide_rank=true" style="margin-bottom: 10px;">
+   <img src="https://github-profile-trophy.vercel.app/?username=Afek-Sakaju&theme=gruvbox&no-frame=false&no-bg=false&column=2&row=1&margin-w=15">
 </div>
 </br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=Afek-Sakaju&theme=gruvbox&no-frame=false&no-bg=false&column=2&row=1&margin-w=15">
+
 </br>
 </br>
 </br>
