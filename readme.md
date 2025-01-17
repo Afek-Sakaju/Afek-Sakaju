@@ -5,13 +5,6 @@
 
 ---
 
-
-## GitHub stats:
-
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
-</div>
-
 ## Tech Stack:
 
 <div>
@@ -55,7 +48,14 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 </div>
 
+## GitHub stats:
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
+</div>
 
 ---
-![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/363e2354-c8d6-4359-b630-db6e298ad0bf)
 
+<div>
+   <img src="https://github.com/user-attachments/assets/363e2354-c8d6-4359-b630-db6e298ad0bf" width="300" />
+</div>
