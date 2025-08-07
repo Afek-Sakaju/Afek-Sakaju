@@ -1,5 +1,5 @@
 
-![Afek Sakaju - Full-Stack Developer | React, Next, Node](./github-header.png)
+<img width="3400" height="920" alt="Afek Sakaju - Full-Stack Developer | React, Next, Node" src="https://github.com/user-attachments/assets/103ce8df-29e8-4d9b-a6a1-fe0b919b589c" />
 ### 💌 Connect with me on [Linkedin](https://www.linkedin.com/in/afeksa/)
 ### 📃 Visit my [Stack Overflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
 
