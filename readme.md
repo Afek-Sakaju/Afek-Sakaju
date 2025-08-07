@@ -2,7 +2,7 @@
 <img width="3400" height="920" alt="Afek Sakaju - Full-Stack Developer | React, Next, Node" src="https://github.com/user-attachments/assets/103ce8df-29e8-4d9b-a6a1-fe0b919b589c" />
 
 ### 💌 Connect with me on [Linkedin](https://www.linkedin.com/in/afeksa/)
-### 📃 Visit my [Stack Overflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
+### 📃 Visit my [StackOverflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
 
 ---
 
@@ -51,7 +51,7 @@
 </div>
 
 
-## GitHub stats:
+## GitHub Stats:
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
