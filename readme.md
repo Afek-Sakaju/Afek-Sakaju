@@ -54,7 +54,7 @@
 ## GitHub Stats:
 
 <div>
-   ![Afek-Sakaju's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afek-Sakaju&theme=onedark&hide_border=false)
+   <img width="786" height="308" alt="image" src="https://github.com/user-attachments/assets/fde37f5b-c6b6-4f76-b416-f4b97bc7c1c5" />
 </div>
 
 ---
