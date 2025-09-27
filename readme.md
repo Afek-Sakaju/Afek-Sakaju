@@ -54,7 +54,7 @@
 ## GitHub Stats:
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afek-Sakaju&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4">
+   ![Afek-Sakaju's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afek-Sakaju&theme=onedark&hide_border=false)
 </div>
 
 ---
