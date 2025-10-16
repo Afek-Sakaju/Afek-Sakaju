@@ -50,11 +50,6 @@
 
 </div>
 
-
-## GitHub Stats:
-
-![Afek-Sakaju's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afek-Sakaju&theme=onedark&hide_border=false)
-
 ---
 
 <div>
