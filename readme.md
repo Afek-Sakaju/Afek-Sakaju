@@ -3,7 +3,7 @@
 
 ### 💌 Connect with me on [Linkedin](https://www.linkedin.com/in/afeksa/)
 ### 📃 Visit my [StackOverflow](https://stackoverflow.com/users/23135502/afek-sakaju) profile
-### 🍐 Check out my personal hobby site for nutrition & fitness calculators: [NutriBody IL](https://www.nutribody.co.il/)
+### 🥑 Check out my personal hobby site [NutriBody IL](https://www.nutribody.co.il/) for nutrition & fitness calculators
 
 ---
 
