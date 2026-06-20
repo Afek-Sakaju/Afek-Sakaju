@@ -5,8 +5,6 @@
 
 ### 🥑 Check out my fitness website [NutriBody IL](https://www.nutribody.co.il/) for nutrition & fitness calculators
 
-### 🌼 Love perfumes? Here's a hobby site I created for giving health score for every perfume [Fragrance-Core](https://www.fragrance-core.com/)
-
 ---
 
 ## Tech Stack:
