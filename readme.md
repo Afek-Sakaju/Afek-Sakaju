@@ -5,6 +5,8 @@
 
 ### 🥑 Check out my fitness website [NutriBody IL](https://www.nutribody.co.il/) for nutrition & fitness calculators
 
+### 🀄️ Visit my online card & puzzle games website [AF-Games](https://af-games.win/) 
+
 ---
 
 ## Tech Stack:
